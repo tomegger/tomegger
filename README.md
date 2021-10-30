@@ -20,7 +20,7 @@
 
 ### Projects:
 
-[<img align="left" alt="Uperox" width="26px" src="https://uperox.com/site/uploads/2021/Sep/24/favicon.png" />][upproject]
+[<img align="left" alt="Uperox" width="26px" src="https://cdn.uperox.com/favicon.png" />][upproject]
 [<img align="left" alt="Dynonix" width="26px" src="https://avatars.githubusercontent.com/u/77581050?s=200&v=4" />][dyproject]
 
 <br />
