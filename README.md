@@ -5,7 +5,7 @@
    | |   | | | | | (_) | | | | | | | | (_| | \__ \   | |___  | (_| | | (_| | |  __/ | |   
    |_|   |_| |_|  \___/  |_| |_| |_|  \__,_| |___/   |_____|  \__, |  \__, |  \___| |_|   
                                                               |___/   |___/               
-© 2021 Thomas Egger
+© 2022 Thomas Egger
 --->
 
 ### Hi there, I'm Thomas Egger 👋
@@ -21,7 +21,7 @@
 ### Projects:
 
 [<img align="left" alt="Uperox" width="26px" src="https://cdn.uperox.com/favicon.png" />][upproject]
-[<img align="left" alt="Dynonix" width="26px" src="https://avatars.githubusercontent.com/u/77581050?s=200&v=4" />][dyproject]
+[<img align="left" alt="Ryen" width="26px" src="https://cdn.uperox.com/Ryen_ico.png" />][ryproject]
 
 <br />
 
@@ -83,10 +83,10 @@
 
 </details>
 
-[website]: https://uperox.com
-[twitter]: https://twitter.com/tegger
-[youtube]: https://youtube.com/itsthomas
+[website]: https://t-e.me
+[twitter]: https://twitter.com/TomEgger
+[youtube]: https://youtube.com/TomEgger
 [instagram]: https://instagram.com/thomasegger
 [linkedin]: https://linkedin.com/in/eggerthomas
 [upproject]: https://www.uperox.com
-[dyproject]: https://www.dynonix.com
+[ryproject]: https://www.ryen.org
