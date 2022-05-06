@@ -20,7 +20,7 @@
 
 ### Projects:
 
-[<img align="left" alt="Uperox" width="26px" src="https://cdn.uperox.com/favicon.png" />][upproject]
+[<img align="left" alt="Uperox" width="26px" src="https://dystatic.com/uperox_white.png" />][upproject]
 [<img align="left" alt="Ryen" width="26px" src="https://r-ltd.com/favicon-32x32.png" />][ryproject]
 
 <br />
