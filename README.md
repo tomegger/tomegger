@@ -10,7 +10,8 @@
 
 ### Hi there, I'm Thomas Egger 👋
 
-[![Website](https://img.shields.io/badge/UPEROX-WEB-success)](https://uperox.com)
+[![EggerWeb](https://img.shields.io/badge/Egger-Web-orange)](https://t-e.me)
+[![EggerNotes](https://img.shields.io/badge/Egger-Notes-blue)](https://eggernotes.com)
 
 ## I'm a CEO, Founder and Developer
 
