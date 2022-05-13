@@ -10,6 +10,10 @@
 
 ### Hi there, I'm Thomas Egger 👋
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=egger&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egger&theme=dark&hide_border=true&layout=compact">
+
 [![EggerWeb](https://img.shields.io/badge/Egger-Web-orange)](https://t-e.me)
 [![EggerNotes](https://img.shields.io/badge/Egger-Notes-blue)](https://eggernotes.com)
 
@@ -71,13 +75,6 @@
 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egger&show_icons=true&theme=dark)
 
 </details>
 
