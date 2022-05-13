@@ -32,7 +32,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="t-e.me" width="22px" src="https://egger.ai/static/favicons/mstile-150x150.png" />][website]
+[<img align="left" alt="t-e.me" width="22px" src="https://dystatic.com/te.png" />][website]
 [<img align="left" alt="Egger | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
 [<img align="left" alt="Egger | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="left" alt="Egger | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
