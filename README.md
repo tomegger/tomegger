@@ -65,7 +65,7 @@
 
 ---
 
-🌐 [Official Website](https://egger.ai)
+[Official Website](https://egger.ai)
 
 [website]: https://t-e.me
 [twitter]: https://twitter.com/TomEgger
