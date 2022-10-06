@@ -8,70 +8,54 @@
 © 2022 Thomas Egger
 --->
 
-### Hi there, I'm Thomas Egger 👋
+<div align="center">
+<img width="100" src="https://dystatic.com/te.png" alt="ThomasEggerLogo" />
+<h1>
+</div>
+  
+  <h3 align="center">CEO &amp; Software Engineer</h3>
+  
+<div align="center">
+  <a href="https://eggernotes.com">
+    <img src="https://img.shields.io/badge/Egger-Notes-blue" alt="EggerNotes" />
+  </a>
+   <a href="https://t-e.me">
+    <img src="https://img.shields.io/badge/Egger-Web-orange" alt="EggerWeb" />
+  </a>
+</div>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=egger&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egger&theme=dark&hide_border=true&layout=compact">
+<h2 align="center">Tech Stack</h2>
 
-[![EggerWeb](https://img.shields.io/badge/Egger-Web-orange)](https://t-e.me)
-[![EggerNotes](https://img.shields.io/badge/Egger-Notes-blue)](https://eggernotes.com)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
-## I'm a CEO, Founder and Developer
-
-- 🌱 I’m currently learning everything
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Quote: It´s not about ideas. It´s about making ideas happen.
-
-### Projects:
-
-[<img align="left" alt="Uperox" width="26px" src="https://dystatic.com/uperox_white.png" />][upproject]
-[<img align="left" alt="Ryen" width="26px" src="https://r-ltd.com/favicon-32x32.png" />][ryproject]
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="t-e.me" width="22px" src="https://dystatic.com/te.png" />][website]
-[<img align="left" alt="Egger | YouTube" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />][youtube]
-[<img align="left" alt="Egger | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
-[<img align="left" alt="Egger | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
-[<img align="left" alt="Egger | Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
+<p align="center">I want to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. </p>
 
 <br />
 
-### Languages and Tools:
+#### 🧡&nbsp;&nbsp;My passions
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][latproject]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][latproject]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][latproject]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][latproject]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][latproject]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][latproject]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][latproject]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][latproject]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][latproject]
+* Technology and software
+* Science 
+* Machine learning
+* Books ([Goodreads](https://www.goodreads.com/egger))
+* Music
+  
+<details>
+<summary align="center">Click for GitHub Stats</summary>
+<p align="center">
+  <img width="53%" align="center" src="https://github-readme-stats.vercel.app/api?username=egger&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egger&theme=dark&hide_border=true&layout=compact">
+</p>
+</details>
 
 <br />
-<br />
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Welcome](https://eggernotes.com/welcome-62dd200b7166)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://eggernotes.com)
-
----
-
-[Official Website](https://egger.ai)
-
-[website]: https://t-e.me
-[twitter]: https://twitter.com/TomEgger
-[youtube]: https://youtube.com/TomEgger
-[instagram]: https://instagram.com/thomasegger
-[linkedin]: https://linkedin.com/in/TomEgger
-[upproject]: https://www.uperox.com
-[ryproject]: https://www.ryen.org
-[latproject]: #
+<a href="https://egger.dev">
+  <table align="center">
+      <tr>
+          <td>
+            ‍DEV WEBSITE‍
+          </td>
+      </tr>
+  </table>
+</a>
