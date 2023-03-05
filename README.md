@@ -16,10 +16,7 @@
   <h3 align="center">CEO &amp; Software Engineer</h3>
   
 <div align="center">
-  <a href="https://eggernotes.com">
-    <img src="https://img.shields.io/badge/Egger-Notes-blue" alt="EggerNotes" />
-  </a>
-   <a href="https://t-e.me">
+   <a href="https://egger.ai">
     <img src="https://img.shields.io/badge/Egger-Web-orange" alt="EggerWeb" />
   </a>
 </div>
