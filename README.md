@@ -5,7 +5,7 @@
    | |   | | | | | (_) | | | | | | | | (_| | \__ \   | |___  | (_| | | (_| | |  __/ | |   
    |_|   |_| |_|  \___/  |_| |_| |_|  \__,_| |___/   |_____|  \__, |  \__, |  \___| |_|   
                                                               |___/   |___/               
-© 2022 Thomas Egger. All rights reserved.
+© 2023 Thomas Egger. All rights reserved.
 --->
 
 <div align="center">
