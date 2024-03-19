@@ -8,7 +8,7 @@
 --->
 
 <p align="center">
-  <img src="https://github.com/tomegger/tomegger/raw/master/cover.png" height="200" alt="Memoji"/>
+  <img src="https://github.com/tomegger/tomegger/raw/main/cover.png" height="200" alt="Memoji"/>
 </p>
 
 <h1 align="center">Tom Egger</h1>
