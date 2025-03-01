@@ -4,7 +4,7 @@
    | || (_) | |\/| | | _| (_ | (_ | _||   /
    |_| \___/|_|  |_| |___\___|\___|___|_|_\
 
-© 2024 Tom Egger. All rights reserved.
+© 2025 Tom Egger. All rights reserved.
 --->
 
 <p align="center">
@@ -15,9 +15,9 @@
 <h3 align="center">Entrepreneur, Consultant &amp; Producer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/tomegger" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/thomasegger" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/TomEgger" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.linkedin.com/in/TomEgger" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/tomegger" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.x.com/TomEgger" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
 <p align="center">I have a strong desire to develop practical, impactful projects that focus on people. I think that technology and innovation have the ability to create a better future.</p>
 
